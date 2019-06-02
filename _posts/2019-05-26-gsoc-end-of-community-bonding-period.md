@@ -1,9 +1,9 @@
 ---
 layout: post
 title: GSoC - Community Bonding Period Ends !!
-subtitle: The Coding Phase starts !!
+subtitle: The Journey will begin now !!
 bigimg: /img/path.jpg
-tags: [gsoc, sympy, coding]
+tags: [gsoc, sympy, cbp]
 ---
 
 The all-important `Community Bonding Period` ends!! During these three weeks, I have come to learn a lot more things about SymPy, and especially its `Series` module, the module I would be improving this summer. The first week of the CBP was wasted since I had college exams going on, and couldn't focus. After they ended, I set my blog, and had a meeting over Hangouts with **Sartaj**. 
