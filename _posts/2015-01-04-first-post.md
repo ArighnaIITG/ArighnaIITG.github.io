@@ -1,10 +1,11 @@
 ---
 layout: post
 title: GSoC' 19 @ SymPy !!!
-image: /img/gsoc-sympy.png
 comments: true
 tags: [ gsoc, Sympy]
 ---
+
+<img src="/img/gsoc-sympy.png" style="width:30%;height:30%;float:left;" />
 
 <br><br><br><br><br><br><br><br>
 Sorry for the late post!!
